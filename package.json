@@ -25,6 +25,7 @@
   "homepage": "https://github.com/kalikrit/excel_course#readme",
   "browserslist": "> 0.25%, not dead",
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
